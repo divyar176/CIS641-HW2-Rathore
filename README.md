@@ -10,8 +10,7 @@ I am an Experienced Database Engineer with 3+ years of IT experience as a databa
 We are currently working on building a web application which is for small-scale business units. This web application focuses on hiring employees and we strongly believe that this can be of optimal use for employers who don't have a dedicated website to post their job openings. It is different from the other job portal website because we have a lot of websites that enlist the companies/business unit which is well established but not the ones which are currently formed and are in an initial stage of their business.
 
 # Link to the Project page:
-https://kondaa1.github.io/GVSU-CIS641-Nidhyana/
-
+[project url](https://kondaa1.github.io/GVSU-CIS641-Nidhyana/)
  
-Well this is something which totally relates me:)))) https://blog.yellowoctopus.com.au/wp-content/uploads/2020/02/yellow-octopus-coffee-memes-10.jpg
+[Well this is something which totally relates me:))))](https://blog.yellowoctopus.com.au/wp-content/uploads/2020/02/yellow-octopus-coffee-memes-10.jpg)
  
